@@ -5,3 +5,5 @@
 QR Koduna çevirmek istediğiniz metni girip oluştur butonuna basın, isterseniz kaydedebiliriniz.
 
 Enter the text you want to convert into a QR Code and press the create button, you can save it if you wish.
+
+Download Link : https://ay.live/qrgnrt
