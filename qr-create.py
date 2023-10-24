@@ -41,7 +41,7 @@ def generate_qr_code():
     qr_image.save(temp_filename)
 
 def open_link(event):
-    webbrowser.open("https://linktr.ee/leaddy")
+    webbrowser.open("https://heylink.me/leaddy")
 
 def download_qr_code():
     # QR kodunu kaydedilen konumdan seçilen bir konuma kopyala
